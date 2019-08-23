@@ -4,7 +4,6 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/abr4xas/nova-hello-dolly.svg?style=flat-square)](https://packagist.org/packages/abr4xas/nova-hello-dolly)
 [![Total Downloads](https://img.shields.io/packagist/dt/abr4xas/nova-hello-dolly.svg?style=flat-square)](https://packagist.org/packages/abr4xas/nova-hello-dolly)
-
 [![Become a Patron!](https://img.shields.io/badge/become-a_patron!-red.svg?logo=patreon&style=flat)](https://www.patreon.com/bePatron?u=252896)
 
 
