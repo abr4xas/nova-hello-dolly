@@ -3,10 +3,9 @@
 # Hello Dolly from WordPress to Laravel Nova
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/abr4xas/nova-hello-dolly.svg?style=flat-square)](https://packagist.org/packages/abr4xas/nova-hello-dolly)
-![CircleCI branch](https://img.shields.io/circleci/project/github/abr4xas/nova-hello-dolly/master.svg?style=flat-square)
-[![Build Status](https://img.shields.io/travis/abr4xas/nova-hello-dolly/master.svg?style=flat-square)](https://travis-ci.org/abr4xas/nova-hello-dolly)
-[![Quality Score](https://img.shields.io/scrutinizer/g/abr4xas/nova-hello-dolly.svg?style=flat-square)](https://scrutinizer-ci.com/g/abr4xas/nova-hello-dolly)
 [![Total Downloads](https://img.shields.io/packagist/dt/abr4xas/nova-hello-dolly.svg?style=flat-square)](https://packagist.org/packages/abr4xas/nova-hello-dolly)
+
+[![Become a Patron!](https://img.shields.io/badge/become-a_patron!-red.svg?logo=patreon&style=flat)](https://www.patreon.com/bePatron?u=252896)
 
 
 
